@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: renan-system
+  description: System of Renan
+  tags:
+    - portal
+spec:
+  owner: squad-coe
+  domain: coe
